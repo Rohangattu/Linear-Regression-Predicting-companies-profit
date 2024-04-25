@@ -3,13 +3,13 @@
 We have a dataset consisting of financial attributes of companies, including R&amp;D spend, administration costs, marketing spend, and state, with corresponding profits. After analyzing data from 1000 companies in the USA, we created a linear model to predict profits.
 
 ## Contents
-Introduction
-Contents
-Libraries Used
-Data Import
-Data Cleaning and EDA
-Model Building
-Conclusion
+Introduction /n
+Contents /n
+Libraries Used /n
+Data Import /n
+Data Cleaning and EDA /n
+Model Building /n
+Conclusion /n
 ## Libraries Used
 pandas: Used for data manipulation and analysis.
 numpy: Provides support for mathematical operations on arrays.
